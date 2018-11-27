@@ -56,3 +56,5 @@ defmodule GuessingGame do
     |> String.to_integer()
   end
 end
+
+GuessingGame.start
